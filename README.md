@@ -29,3 +29,7 @@ python scripts/dataflow_pipeline.py \
     --input=gs://my-data-pipeline-bucket/users.csv \
     --output=data-pipeline-project-438123:user_data.filtered_users \
     --job_name=my-data-pipeline-job-$(date +%Y%m%d%H%M%S)
+
+
+
+https://github.com/jyot9998/GCP-Data-Pipeline-Project/blob/main/resources/Screenshot%20(5878).png
